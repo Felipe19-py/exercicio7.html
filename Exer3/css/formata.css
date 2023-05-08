@@ -1,0 +1,104 @@
+body{
+    font-size: 15pt;
+    margin: 15px;
+    font-family: 'Times New Roman';
+}
+
+img{
+    width: 120px;
+}
+
+#comp{
+    padding-top: 300px;
+    border: 1px solid black;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    width: 200px;
+    height: 430px;
+    text-align: center;
+    margin: auto;
+    color: blue;
+    position: absolute;
+}
+
+#claro{
+    border: 1px solid red;
+    box-shadow: 0 5px 5px 0 red;
+    padding: auto;
+    text-align: justify;
+    border-radius: 15px;
+    width: 1000px;
+    height: 100%;
+    margin-left: 210px;
+}
+
+#claro p{
+    margin-left: 5px;
+}
+
+#claro img{
+    margin-left: 15px; 
+    margin-top: 8px;
+}
+
+#oi{
+    border: 1px solid rgb(255, 234, 0);
+    box-shadow: 0 5px 5px 0 rgb(255, 234, 0);
+    padding: auto;
+    text-align: justify;
+    border-radius: 15px;
+    margin-top: 20px;
+    width: 1000px;
+    height: 100%; 
+    margin-left: 210px;
+}
+
+#oi p{
+    margin-left: 5px;
+}
+
+#oi img{
+    margin-left: 15px;
+    margin-top: 8px;
+}
+
+#plano{
+    border: 1px solid black;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    padding: 15px;
+    margin: 10px;
+    text-align: center;
+    margin-left: 0px;
+    width: 1180px;
+}
+
+#plano button{
+    margin: auto;
+    margin-top: 5px;
+}
+
+
+
+
+
+
+
+footer{
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    width: 1220px;
+    height: 40px;
+    display: block;
+    margin: 0;
+    margin-bottom: 10px;
+
+}
+
+footer p{
+    padding: 8px;
+    text-align: center;
+}
+
